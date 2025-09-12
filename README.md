@@ -30,4 +30,6 @@ This repository contains a simple Node.js API and a React client used for a user
 
 The client now displays an animated banner welcoming you to **DevOps Shack**.
 
-YouTube https://www.youtube.com/watch?v=kuUHV0I0YwM
+ 
+
+<a herf="https://www.youtube.com/watch?v=kuUHV0I0YwM">YouTube</a>
